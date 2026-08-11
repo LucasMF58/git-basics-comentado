@@ -19,11 +19,11 @@ git init [nome-do-projeto]
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+<!-- TODO: utilizado para iniciar um arquivo git, ou seja, um arquivo que o git consiga ler -->
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+<!-- TODO: utilizado pelo github para poder ler, anotar e entender o que o usuario mudou -->
 
 ---
 
@@ -35,18 +35,18 @@ git clone [url]
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+<!-- TODO: esse comando copia os arquivos de um codigo do github para o seu computador -->
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+<!-- TODO: usado para poder modificar, melhorar ou testar um codigo -->
 
 ---
 
 ## Checklist deste arquivo
 
-- [ ] 1. `git init [nome-do-projeto]`
-- [ ] 2. `git clone [url]`
+- [x] 1. `git init [nome-do-projeto]`
+- [x] 2. `git clone [url]`
 
 ---
 
