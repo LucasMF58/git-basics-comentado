@@ -19,11 +19,11 @@ git status
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+<!-- TODO: mostra todos os arquivos que foram modificados, alem de mostrar em qual branch está -->
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+<!-- TODO: usado para saber se um arquivo ja foi mandado para o servidor ou se foi modificado, alem de ser possivel ver em qual branch esta -->
 
 ---
 
@@ -35,11 +35,11 @@ git diff
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+<!-- TODO: mostra o que foi modificado nos arquivos -->
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+<!-- TODO: usado para saber onde foi modificado em cada arquivo -->
 
 ---
 
@@ -51,11 +51,11 @@ git add [arquivo]
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+<!-- TODO: ele grava o arquivo, o preparando para ser commitado -->
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+<!-- TODO: utilizado para a preparacao de um ou mais arquivos para ser enviado para o github -->
 
 ---
 
@@ -67,11 +67,11 @@ git diff --staged
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+<!-- TODO: mostra a diferença do que foi modificado entre arquivos que estao preparados e suas ultimas versoes -->
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+<!-- TODO: usado para poder ver as diferencas de codigo -->
 
 ---
 
@@ -83,11 +83,11 @@ git reset [arquivo]
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+<!-- TODO: tira o arquivo da are de preparação (git add), mas mantem seu conteudo -->
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+<!-- TODO: quando o arquivo foi preparado sem querer e quer retirar ele -->
 
 ---
 
@@ -99,22 +99,22 @@ git commit -m "[mensagem descritiva]"
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+<!-- TODO: grava permanentemente o arquivo nas versoes -->
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+<!-- TODO: quando os arquivos estao prontos para serem mandados ao servidor (git push) -->
 
 ---
 
 ## Checklist deste arquivo
 
-- [ ] 1. `git status`
-- [ ] 2. `git diff`
-- [ ] 3. `git add [arquivo]`
-- [ ] 4. `git diff --staged`
-- [ ] 5. `git reset [arquivo]`
-- [ ] 6. `git commit -m "[mensagem descritiva]"`
+- [x] 1. `git status`
+- [x] 2. `git diff`
+- [x] 3. `git add [arquivo]`
+- [x] 4. `git diff --staged`
+- [x] 5. `git reset [arquivo]`
+- [x] 6. `git commit -m "[mensagem descritiva]"`
 
 ---
 
