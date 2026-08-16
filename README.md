@@ -206,6 +206,7 @@ git push
 | 02 | [02-configure-a-ferramenta.md](comandos/02-configure-a-ferramenta.md) | Configure a ferramenta | 2 | [x] |
 | 03 | [03-crie-repositorios.md](comandos/03-crie-repositorios.md) | Crie repositórios | 2 | [x] |
 | 04 | [04-faca-mudancas.md](comandos/04-faca-mudancas.md) | Faça mudanças | 6 | [x] |
+<<<<<<< HEAD
 | 05 | [05-mudancas-em-grupo.md](comandos/05-mudancas-em-grupo.md) | Mudanças em grupo | 5 | [x] |
 <<<<<<< HEAD
 | 06 | [06-refatore-nomes-de-arquivos.md](comandos/06-refatore-nomes-de-arquivos.md) | Refatore nomes de arquivos | 3 | [x] |
@@ -225,6 +226,9 @@ git push
 =======
 =======
 =======
+=======
+| 05 | [05-mudancas-em-grupo.md](comandos/05-mudancas-em-grupo.md) | Mudanças em grupo | 5 | [ ] |
+>>>>>>> docs/04-faca-mudancas
 | 06 | [06-refatore-nomes-de-arquivos.md](comandos/06-refatore-nomes-de-arquivos.md) | Refatore nomes de arquivos | 3 | [ ] |
 >>>>>>> docs/05-mudancas-em-grupo
 | 07 | [07-suprima-o-monitoramento.md](comandos/07-suprima-o-monitoramento.md) | Suprima o monitoramento | 2 | [ ] |
