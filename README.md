@@ -205,6 +205,7 @@ git push
 | 01 | [01-instale-o-git.md](comandos/01-instale-o-git.md) | Instale o Git | 3 | [x] |
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 | 02 | [02-configure-a-ferramenta.md](comandos/02-configure-a-ferramenta.md) | Configure a ferramenta | 2 | [x] |
 | 03 | [03-crie-repositorios.md](comandos/03-crie-repositorios.md) | Crie repositórios | 2 | [x] |
 | 04 | [04-faca-mudancas.md](comandos/04-faca-mudancas.md) | Faça mudanças | 6 | [x] |
@@ -230,6 +231,8 @@ git push
 =======
 =======
 =======
+=======
+>>>>>>> docs/01-instale-o-git
 | 02 | [02-configure-a-ferramenta.md](comandos/02-configure-a-ferramenta.md) | Configure a ferramenta | 2 | [ ] |
 | 03 | [03-crie-repositorios.md](comandos/03-crie-repositorios.md) | Crie repositórios | 2 | [x] |
 | 04 | [04-faca-mudancas.md](comandos/04-faca-mudancas.md) | Faça mudanças | 6 | [x] |
