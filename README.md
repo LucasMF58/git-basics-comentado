@@ -212,7 +212,11 @@ git push
 | 08 | [08-salve-fragmentos.md](comandos/08-salve-fragmentos.md) | Salve fragmentos | 4 | [x] |
 | 09 | [09-revise-o-historico.md](comandos/09-revise-o-historico.md) | Revise o histórico | 4 | [x] |
 | 10 | [10-desfaca-commits.md](comandos/10-desfaca-commits.md) | Desfaça commits | 2 | [x] |
+<<<<<<< HEAD
 | 11 | [11-sincronize-mudancas.md](comandos/11-sincronize-mudancas.md) | Sincronize mudanças | 4 | [x] |
+=======
+| 11 | [11-sincronize-mudancas.md](comandos/11-sincronize-mudancas.md) | Sincronize mudanças | 4 | [ ] |
+>>>>>>> docs/10-desfaca-commits
 | | | **Total** | **37** | |
 
 Marque a coluna **Concluído** com `[x]` conforme for fechando cada arquivo.
