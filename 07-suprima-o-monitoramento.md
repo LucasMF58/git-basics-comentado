@@ -21,11 +21,11 @@ temp-*
 
 **O que este arquivo faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+<!-- TODO: cuida dos arquivos e diretorios para ver se estao dentro das normas -->
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+<!-- TODO: quando quer ter um controle maior nos arquivos enviados -->
 
 ---
 
@@ -37,18 +37,18 @@ git ls-files --others --ignored --exclude-standard
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+<!-- TODO: olha todos arquivos descartados pelo projeto -->
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+<!-- TODO: quando descartou algum e quer ver -->
 
 ---
 
 ## Checklist deste arquivo
 
-- [ ] 1. Arquivo `.gitignore`
-- [ ] 2. `git ls-files --others --ignored --exclude-standard`
+- [x] 1. Arquivo `.gitignore`
+- [x] 2. `git ls-files --others --ignored --exclude-standard`
 
 ---
 
