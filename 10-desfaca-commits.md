@@ -19,11 +19,11 @@ git reset [commit]
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+<!-- TODO: desfaz todos os commits depos do comit especificado -->
 
 **Quando usar / observação:**
 
-<!-- TODO: opcional, mas conta ponto. -->
+<!-- TODO: quando o novato faz merda tem que ter um jeito de voltar -->
 
 ---
 
@@ -35,7 +35,7 @@ git reset --hard [commit]
 
 **O que faz:**
 
-<!-- TODO: escreva sua explicação aqui. Uma frase por linha. -->
+<!-- TODO: apaga todo historico de mudancas para o commit especifico -->
 
 **Quando usar / observação:**
 
@@ -45,8 +45,8 @@ git reset --hard [commit]
 
 ## Checklist deste arquivo
 
-- [ ] 1. `git reset [commit]`
-- [ ] 2. `git reset --hard [commit]`
+- [x] 1. `git reset [commit]`
+- [x] 2. `git reset --hard [commit]`
 
 ---
 
