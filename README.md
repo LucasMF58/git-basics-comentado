@@ -209,6 +209,7 @@ git push
 | 05 | [05-mudancas-em-grupo.md](comandos/05-mudancas-em-grupo.md) | Mudanças em grupo | 5 | [x] |
 | 06 | [06-refatore-nomes-de-arquivos.md](comandos/06-refatore-nomes-de-arquivos.md) | Refatore nomes de arquivos | 3 | [x] |
 | 07 | [07-suprima-o-monitoramento.md](comandos/07-suprima-o-monitoramento.md) | Suprima o monitoramento | 2 | [x] |
+<<<<<<< HEAD
 | 08 | [08-salve-fragmentos.md](comandos/08-salve-fragmentos.md) | Salve fragmentos | 4 | [x] |
 <<<<<<< HEAD
 | 09 | [09-revise-o-historico.md](comandos/09-revise-o-historico.md) | Revise o histórico | 4 | [x] |
@@ -219,6 +220,9 @@ git push
 =======
 =======
 =======
+=======
+| 08 | [08-salve-fragmentos.md](comandos/08-salve-fragmentos.md) | Salve fragmentos | 4 | [ ] |
+>>>>>>> docs/07-suprima-o-monitoramento
 | 09 | [09-revise-o-historico.md](comandos/09-revise-o-historico.md) | Revise o histórico | 4 | [ ] |
 >>>>>>> docs/08-salve-fragmentos
 | 10 | [10-desfaca-commits.md](comandos/10-desfaca-commits.md) | Desfaça commits | 2 | [ ] |
